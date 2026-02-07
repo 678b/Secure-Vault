@@ -1,0 +1,20 @@
+File: keys.txt
+Size: 26 bytes
+Last Modified: 2026-02-07 10:47:21.089732546 -0800
+Permissions: 600
+-----------------------------
+File: logs.txt
+Size: 72 bytes
+Last Modified: 2026-02-07 11:03:19.958563261 -0800
+Permissions: 644
+-----------------------------
+File: secrets.txt
+Size: 37 bytes
+Last Modified: 2026-02-07 11:01:26.997774701 -0800
+Permissions: 644
+-----------------------------
+File: vault_report.txt
+Size: 387 bytes
+Last Modified: 2026-02-07 11:07:28.580270794 -0800
+Permissions: 644
+-----------------------------
